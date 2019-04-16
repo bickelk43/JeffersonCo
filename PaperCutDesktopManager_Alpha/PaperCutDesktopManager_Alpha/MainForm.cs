@@ -136,6 +136,7 @@ namespace PaperCutDesktopManager_Alpha
             updateUserButton.Enabled = false;
             restrictedComboBox.Enabled = false;
             printingDisabledComboBox.Enabled = false;
+            this.AcceptButton = usernameSearchButton;
         }
 
         private void ResetForm()
