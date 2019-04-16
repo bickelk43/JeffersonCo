@@ -1,0 +1,13 @@
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.Properties.Resources.resources
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.csproj.GenerateResource.cache
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.csproj.CoreCompileInputs.cache
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\bin\Debug\PaperCutDesktopManager_Alpha.exe.config
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\bin\Debug\PaperCutDesktopManager_Alpha.exe
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\bin\Debug\PaperCutDesktopManager_Alpha.pdb
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.csproj.CopyComplete
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.exe
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.pdb
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.mainForm.resources
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.AboutForm.resources
+C:\Users\bickelk\source\repos\PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha\obj\Debug\PaperCutDesktopManager_Alpha.ConfigForm.resources

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperCutDesktopManager_Alpha", "PaperCutDesktopManager_Alpha\PaperCutDesktopManager_Alpha.csproj", "{29FF2732-7E97-4818-9107-13F36C5DD4AE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PaperCut Desktop Manager", "Setup\Setup.vdproj", "{B5F96318-4E69-455A-A3D9-69B98BF9F0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FF2732-7E97-4818-9107-13F36C5DD4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FF2732-7E97-4818-9107-13F36C5DD4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FF2732-7E97-4818-9107-13F36C5DD4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FF2732-7E97-4818-9107-13F36C5DD4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F96318-4E69-455A-A3D9-69B98BF9F0F1}.Debug|Any CPU.ActiveCfg = Debug
+		{B5F96318-4E69-455A-A3D9-69B98BF9F0F1}.Debug|Any CPU.Build.0 = Debug
+		{B5F96318-4E69-455A-A3D9-69B98BF9F0F1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E353C8A2-440C-4C20-9D8F-F14B4753B346}
+	EndGlobalSection
+EndGlobal
