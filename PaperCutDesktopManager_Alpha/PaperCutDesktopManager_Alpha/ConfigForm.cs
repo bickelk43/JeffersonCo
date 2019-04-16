@@ -106,5 +106,10 @@ namespace PaperCutDesktopManager_Alpha
                 installLocationTextBox.Text = newfbd.SelectedPath.ToString();
             }
         }
+
+        private void ConfigForm_Load(object sender, EventArgs e)
+        {
+            this.AcceptButton = saveButton;
+        }
     }
 }

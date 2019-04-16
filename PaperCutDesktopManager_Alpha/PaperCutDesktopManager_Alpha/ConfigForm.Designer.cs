@@ -129,6 +129,7 @@
             this.Name = "ConfigForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Configuration";
+            this.Load += new System.EventHandler(this.ConfigForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
